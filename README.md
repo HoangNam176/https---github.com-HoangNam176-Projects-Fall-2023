@@ -1,4 +1,4 @@
-# F[a](https://github.com/anlab-ai/face-anti-spoofing)ce Anti Spoofing
+# Face Anti Spoofing
 
 ## Installation
 
