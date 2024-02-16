@@ -12,7 +12,7 @@ git clone https://github.com/HoangNam176/Projects-Fall-2023.git
 - Create a project environment
 
 ```python
-cd gymdx-multi-cam-tracking
+cd python/
 conda create --name py37 python=3.7
 conda activate py37
 ```
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Face anti spoof step
 
-### Step 1: Reasearch code (train and test model) use code python
+### Step 1: Research code (train and test model) use code python
 
 #### Prepare Data
 
