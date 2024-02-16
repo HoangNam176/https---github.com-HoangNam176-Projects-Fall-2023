@@ -106,7 +106,3 @@ python convert_model.py
   - Image fake use Computer: ![Image fake computer](https://i.imgur.com/74sTuDk.jpeg)
   - Image fake use Mobile: ![Image fake Mobile](https://i.imgur.com/KxeQfmA.jpeg)
   - Image fake use A4 poster: ![Image fake A4 Poster](https://i.imgur.com/yS0eFl6.jpeg)
-
-```python
-python demo.py --videos videos\init\Double1.mp4 videos\init\Single1.mp4 --version v3
-```
